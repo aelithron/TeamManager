@@ -1,0 +1,11 @@
+# TeamManager by Aelithron
+# A simple team management plugin for Minecraft servers
+
+# Prefix
+# This will appear in front of all messages sent by the plugin.
+# Color codes supported, guide: https://wiki.ess3.net/mc
+Prefix: "&7[&aTeamManager&7]"
+
+# Friendly Fire
+# If this setting is enabled, players can damage their teammates.
+FriendlyFire: true

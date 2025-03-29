@@ -1,0 +1,12 @@
+name: TeamManager
+version: '1.0-SNAPSHOT'
+main: com.aelithron.teamManager.TeamManager
+api-version: '1.21'
+prefix: Team Manager
+authors: [ Aelithron ]
+description: Simple plugin and API for managing and understanding player teams.
+website: glthub.com/aelithron/TeamManager
+commands:
+  team:
+    description: Manage teams and players.
+    aliases: [teams]

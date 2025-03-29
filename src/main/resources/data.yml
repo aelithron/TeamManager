@@ -1,0 +1,12 @@
+# TeamManager by Aelithron
+# DO NOT MODIFY THIS FILE MANUALLY!
+# This file stores data for the plugin.
+
+# Template:
+# (team UUID):
+#   name: (team name)
+#   leader: (player UUID)
+#   members:
+#     - (player UUID)
+#     - (player UUID)
+#     - [...]
